@@ -1,4 +1,4 @@
-# inspector
+# SwiftSight
 
 A new Flutter project.
 
